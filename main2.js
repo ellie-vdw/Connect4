@@ -1,4 +1,3 @@
-
 var tRow = document.getElementsByTagName('tr');
 var tCell = document.getElementsByTagName('td');
 var tSlot = document.querySelectorAll('.slot');
@@ -14,11 +13,11 @@ for (let i=0; i<tCell.length; i++){
 while(!p1){
     var p1= prompt('Player One: Enter your name, you will be red.');
 }
-p1Color='red';
+p1Color='crimson';
 while(!p2){
     var p2= prompt('Player Two: Enter your name, you will be yellow.');
 }
-p2Color='yellow';
+p2Color='gold';
 let currentPlayer =1;
 playerTurn.textContent= `${p1}'s turn`;
 
