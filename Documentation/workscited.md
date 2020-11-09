@@ -1,7 +1,12 @@
 Works Cited!
-For help with this project I used past lectures, the tic tac toe live code lecutre, two youtube videos on tic tac toe coding, and one connect 4 youtube video. 
+For help with this project I used past lectures, the tic tac toe live code lecutre. As well as the sources below.
 
-* Videos <br>
+* Sources <br>
     * https://www.youtube.com/watch?v=gQb3dE-y1S4
     * https://www.youtube.com/watch?v=GTWrWM1UsnA&t=686s
+    * https://morioh.com/p/b9836d937399
     * https://www.youtube.com/watch?v=Z_IaJQojun8
+    * https://www.w3.org/Style/Examples/007/fonts.en.html
+    * https://www.w3schools.com/cssref/css_colors.asp
+
+
