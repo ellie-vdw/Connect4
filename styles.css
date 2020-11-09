@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gameContainer
+{
+    position: absolute;
+    top: 4rem;
+    left: 50%;
+    transform: translate(-50%);
+    width: 650px;
+    height: 600px;
+    background: blue;
+    border: 1px soild black;
+    padding: 1.5rem; 
+}
+
+.slot
+{
+    width: 90px;
+    height: 90px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.reset
+{
+    position: absolute;
+    top: 95vh;
+    left: 50%;
+    transform: translate(-50%);
+    border: 1px solid black;
+    width: 5rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+/*body
+{
+    background-color: 003049;
+    display: grid;
+    justify-items: center;
+    color: white;
+}
+
+h1
+{
+    font: bookman;
+    font-size: 10vmin;
+    color: eae2b7;
+}*/
+/*
+#view
+{
+    background-color: 003049;
+    height: 90vmin;
+    width: 90vmin;
+    margin: 2vmin;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    justify-items: center;
+    color: white;
+}
+
+#board
+{
+    background-color: 003049;
+    margin: 0.5vmin;
+    height: 80vmin;
+    width: 85vmin;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0.5vmin;
+    justify-items: stretch;
+    align-items: stretch;
+    justify-content: right;
+    align-content: right;
+}
+
+.square {
+    border: 1px 003049;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: eae2b7;
+    border-radius: 50%;
+    color: red;
+    font: 3vmin sans-serif;
+
+}
+
+.redplayer
+{
+    height: 10vmin;
+    width: 10vmin;
+    background-color: d62828;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.yellowplayer
+{
+    height: 10vmin;
+    width: 10vmin;
+    background-color: fcbf49;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.noplayer
+{
+    height: 10vmin;
+    width: 10vmin;
+    background-color: eae2b7;
+    border-radius: 50%;
+    display: inline-block;
+}
+#circ {
+    height: 1.5vmin;
+    width: 1.5vmin;
+    background-color: eae2b7;
+    border-radius: 60%;
+    display: flex;
+}*/
